@@ -10,8 +10,8 @@
 
 ### 升级版
 [项目2地址](https://github.com/x-dr/telegraph-Image)，这个可以批量上传复制地址，后台也正常了很多
-[部署效果](https://kkklll.zhzhzh.fun/)， tcakil
-[后台]([kkklll.zhzhzh.fun/admin](https://kkklll.zhzhzh.fun/admin))
+[部署效果](https://tcakil.pages.dev/)， tcakil
+[后台](https://tcakil.pages.dev/admin)
 
 综合效果还是很不错的。
 
