@@ -9,11 +9,11 @@
 [[cloudfare+telegraph搭建免费图床\|cloudfare+telegraph搭建免费图床]]
 
 
-[[Warp+（电脑）\|Warp+（电脑）]]
+[[Warp+\|Warp+]]
 
 [[数字花园搭建\|数字花园搭建]]
 [[github\|github]]
 
 
 
-#cloudfare
+#cloudfare #托管平台 
