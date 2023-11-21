@@ -3,16 +3,16 @@
 ---
 
 
-[花园地址1](https://huyuan.zhzhzh.fun/)
+[3zh (zhzhzh.fun)](https://hhhyyy.zhzhzh.fun/)
 [花园地址2](https://sdfd-azc.pages.dev/)
 [地址3](https://468557bb.sdfd-azc.pages.dev/)
-[地址4](https://hhhyyy.zhzhzh.fun/)
 
 欢~迎~光临！嘿嘿!
 
+[[花园导航\|花园导航]]
 
 ![](https://telegraph-image-6pq.pages.dev/file/b6559e64e9dc204cc5dd3.jpg)
 
-[[日志\|日志]]
+
 
 #主页面
