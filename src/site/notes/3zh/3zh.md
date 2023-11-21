@@ -10,7 +10,7 @@
 
 欢~迎~光临！嘿嘿!
 
-[[花园导航\|花园导航]]
+[[3zh/花园导航\|花园导航]]
 
 ![](https://telegraph-image-6pq.pages.dev/file/b6559e64e9dc204cc5dd3.jpg)
 
