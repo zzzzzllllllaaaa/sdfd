@@ -10,6 +10,8 @@
 [海艺 Seaart.ai | 安卓苹果PC均能用的免费AI绘图软件！](https://www.seaart.ai/)，默认发布（会员才能私），违规屏蔽。
 [[Stable Diffusion\|Stable Diffusion]]
 
+
+
 [pai](https://artpai.xyz)，可选丰富，排队免费，有违规检测，没多少人了。
 [6pen art](https://6pen.art)，[[6pen art\|6pen art]]。
 [文心一格](https://yige.baidu.com/)，[[文心一格\|文心一格]]
