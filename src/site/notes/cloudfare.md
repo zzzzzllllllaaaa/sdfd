@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cloudfare/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"banner":"[[跪趴.jpg]]","permalink":"/cloudfare/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
