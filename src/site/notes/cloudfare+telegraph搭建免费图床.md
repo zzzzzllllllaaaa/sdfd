@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/cloudfare+telegraph搭建免费图床/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
+
+[[telegraph\|telegraph]]
 ### 基础
 [利用cloudfare搭建图床教程](https://baijiahao.baidu.com/s?id=1777556287468058410)
 [项目1地址](https://github.com/cf-pages/Telegraph-Image)
@@ -13,7 +15,7 @@
 [部署效果](https://tcakil.pages.dev/)， tcakil
 [后台](https://tcakil.pages.dev/admin)
 
-综合效果还是很不错的。
+视频限制5m大小，是因为telegra.ph本身就限制这么大，综合效果还是很不错的。
 
 ![](https://telegraph-image-6pq.pages.dev/file/59ff19aa0570131f64b3c.jpg)
 
