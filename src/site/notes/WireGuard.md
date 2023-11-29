@@ -11,4 +11,4 @@
 5. 就这样开启就可以使用了，运行很稳定，刷tiktok不在话下。
 
 
-#WireGuard #梯子
+#WireGuard #梯子 #3zh 
