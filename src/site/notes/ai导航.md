@@ -9,4 +9,4 @@
 [ai应用导航](https://cooltools.top/ai.html#vtt)，很不错。
 [ai世界](https://www.aimappro.com/)，般般。
 
-#ai #导航
+#ai #导航 #3zh 
