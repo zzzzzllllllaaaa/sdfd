@@ -15,4 +15,4 @@
 
 [[quicker分享程序\|quicker分享程序]]
 
-#quicker #输入 #效率
+#quicker #输入 #效率 #3zh 
