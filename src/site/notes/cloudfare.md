@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"banner":"[[跪趴.jpg]]","permalink":"/cloudfare/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/cloudfare/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -16,4 +16,4 @@
 
 
 
-#cloudfare #托管平台 #云空间 #3zh 
+#cloudfare #托管平台 #云空间 #网络工具 
