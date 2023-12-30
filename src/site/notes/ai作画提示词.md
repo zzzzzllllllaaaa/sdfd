@@ -5,6 +5,7 @@
 
 [[quicker快捷输入\|quicker快捷输入]]
 
+[[提示词选择器\|提示词选择器]]
 [Danbooru 标签超市 (novelai.dev)](https://tags.novelai.dev/)，好用
 [NovelAI tag在线生成器 (wolfchen.top)](https://wolfchen.top/tag/)
 [词图](https://www.prompttool.com/tool)，提供ai作画精修词。[[词图\|词图]]
@@ -18,4 +19,4 @@
 
 [[反向提示词\|反向提示词]]
 
-#ai作画 #提示词 #设定 #3zh 
+#ai作画 #提示词 #设定  #网络工具 
