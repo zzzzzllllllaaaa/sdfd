@@ -3,7 +3,7 @@
 ---
 
 
-[[ai作画\|ai作画]]|[[ai写手\|ai写手]],[[ai助手\|ai助手]]
+[[ai作画\|ai作画]]|[[ai写手\|ai写手]],[[ai\|ai]]
 
 [aihub](https://www.aihub.cn/models/)，很棒
 [ai应用导航](https://cooltools.top/ai.html#vtt)，很不错。
