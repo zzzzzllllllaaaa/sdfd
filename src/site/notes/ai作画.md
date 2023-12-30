@@ -3,10 +3,10 @@
 ---
 
 
-[[ai\|ai]]，[[ai黄图\|ai黄图]]，[[ai作画提示词\|ai作画提示词]]，[[绘画模型\|绘画模型]]，[[ai作画快捷\|ai作画快捷]]
+[[ai\|ai]]，[[ai作画提示词\|ai作画提示词]]，[[绘画模型\|绘画模型]]，[[ai作画快捷\|ai作画快捷]]
 
 [里布ai](https://www.liblib.ai)，完美！[[里布\|里布]]
-[吐司](https://tusiart.com/)，漂亮！[[吐司\|吐司]]
+[吐司](https://tusiart.com/)，漂亮！要梯子。[[吐司\|吐司]]
 [海艺 Seaart.ai | 安卓苹果PC均能用的免费AI绘图软件！](https://www.seaart.ai/)，默认发布（会员才能私），违规屏蔽。
 [[Stable Diffusion\|Stable Diffusion]]
 
@@ -21,4 +21,4 @@
 [nightcafe](https://creator.nightcafe.studio/)，脸书或者谷歌登陆
 
 
- #效率工具  #ai作画 #图片 #ai #导航 #云空间 #3zh 
+ #效率工具  #ai作画 #图片 #ai #导航  #3zh 
