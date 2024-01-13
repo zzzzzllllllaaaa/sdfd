@@ -11,7 +11,7 @@
 
 [[Warp+\|Warp+]]
 
-[[数字花园搭建\|数字花园搭建]]
+[[数字花园（Digital Garden）搭建\|数字花园（Digital Garden）搭建]]
 [[github\|github]]
 
 
