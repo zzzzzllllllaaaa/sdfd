@@ -6,6 +6,8 @@
 
 感觉除了tts其它的都没怎么好用。
 
+[[阿水ai\|阿水ai]]，[[睿声\|睿声]]
+
 [一起用ai](https://17yongai.com/)，ai合集。
 [ai研究所](https://www.aiyjs.com/)，需要梯子。
 [600+ai](https://zl49so8lbq.feishu.cn/wiki/wikcn6YTN3CrZTS8RhrEca8c8Eg)，看得头晕。
