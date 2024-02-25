@@ -5,7 +5,9 @@
 
 [[tts\|tts]]，[[t2s\|t2s]]，[[multitts1.3.2\|multitts1.3.2]]，[[常用机器人下面的还没整理\|常用机器人下面的还没整理]]
 
-超级棒！上班累死累活，全靠听书续命。这个版本的简单清晰。
+#tts #作者 #multitts #3zh #资源
+
+简介::超级棒！上班累死累活，全靠听书续命。这个版本的简单清晰。
 
 [软件备份1.1.9](https://wwp.lanzoup.com/iV8100vq9eja)，提取码 : 3qw2
 [vioce.zip](https://www.123pan.com/s/P8mKVv-kDUaH.html)， 里面包含发音人。（导入慢可以自己自己解压移动到voice文件夹）
@@ -29,5 +31,3 @@
   type: 0
   volume: 1.0
 ```
-
-#tts #作者 #multitts #3zh 
