@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/ai作画/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["ai作画","ai","效率工具","替代","导航","图片"],"permalink":"/ai作画/","dgPassFrontmatter":true,"noteIcon":""}
 ---
+
 
 
 [[ai\|ai]]，[[ai作画提示词\|ai作画提示词]]，[[绘画模型\|绘画模型]]，[[ai作画快捷\|ai作画快捷]]
@@ -8,7 +9,7 @@
 [里布ai](https://www.liblib.ai)，完美！[[里布\|里布]]
 [吐司](https://tusiart.com/)，漂亮！要梯子。[[吐司\|吐司]]
 [海艺 Seaart.ai | 安卓苹果PC均能用的免费AI绘图软件！](https://www.seaart.ai/)，默认发布（会员才能私），违规屏蔽。
-[[Stable Diffusion\|Stable Diffusion]]
+[[Stable Diffusion（本地ai作画）\|Stable Diffusion（本地ai作画）]]
 
 
 
@@ -20,5 +21,3 @@
 [[ERNIE-ViLG Demo\|ERNIE-ViLG Demo]]，不太行。
 [nightcafe](https://creator.nightcafe.studio/)，脸书或者谷歌登陆
 
-
- #效率工具  #ai作画 #图片 #ai #导航  #3zh 
