@@ -4,6 +4,7 @@
 
 
 [[telegraph\|telegraph]]
+[[3zh图床\|3zh图床]]
 ### 基础
 [利用cloudfare搭建图床教程](https://baijiahao.baidu.com/s?id=1777556287468058410)
 [项目1地址](https://github.com/cf-pages/Telegraph-Image)
