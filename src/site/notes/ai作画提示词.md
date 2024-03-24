@@ -7,9 +7,11 @@
 [[quicker快捷输入\|quicker快捷输入]]
 
 [[提示词选择器\|提示词选择器]]
+
+[PromLib·AI提示词画廊-AIGC提示词分享平台](https://promlib.com/)
+[词图](https://www.prompttool.com/tool)，提供ai作画精修词。[[词图\|词图]]
 [Danbooru 标签超市 (novelai.dev)](https://tags.novelai.dev/)，好用
 [NovelAI tag在线生成器 (wolfchen.top)](https://wolfchen.top/tag/)
-[词图](https://www.prompttool.com/tool)，提供ai作画精修词。[[词图\|词图]]
 [AiTag生成工具](https://aitag.org/)
 [AI词汇加速器 AcceleratorI Prompt (dawnmark.cn)](https://ai.dawnmark.cn/),提供词汇组合。
 
