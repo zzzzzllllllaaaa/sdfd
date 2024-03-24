@@ -13,7 +13,7 @@
 
 ### 开始
 #### 部署
-1. 打开https://github.com/oleeskild/digitalgarden，注册/登录。
+1. 打开https://github.com/oleeskild/digitalgarden ，注册/登录。
 2. 点击use this template，然后点击crmrate a new repoditory，填写仓库名，之后点击create repository。
 3. 进入[[cloudfare\|cloudfare]]，注册/登录。
 4. 点击workers和pages，创建应用程序，选择pages，连接到git，选择github账号里面刚刚创建的仓库，直接开始设置。
