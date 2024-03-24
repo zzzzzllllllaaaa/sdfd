@@ -10,8 +10,7 @@
 
 
 [地址](https://sdfd-azc.pages.dev/)
-[3zh (zhzhzh.fun)](https://www.zhzhzh.fun/)
-[地址3](https://468557bb.sdfd-azc.pages.dev/)
+[地址2](https://468557bb.sdfd-azc.pages.dev/)
 欢~迎~光临！嘿嘿!
 
 [[3zh/花园导航\|花园导航]]
@@ -20,7 +19,7 @@
 
 | File                                                        | 修改时间             |
 | ----------------------------------------------------------- | ---------------- |
-| [[3zh/3zh\|3zh]]                                         | 2024-03-24-03:04 |
+| [[3zh/3zh\|3zh]]                                         | 2024-03-24-03:05 |
 | [[ai\|ai]]                                               | 2024-03-24-02:40 |
 | [[cloudfare+telegraph搭建免费图床\|cloudfare+telegraph搭建免费图床]] | 2024-03-24-11:56 |
 | [[cloudfare\|cloudfare]]                                 | 2024-03-24-11:54 |
