@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multitts1.3.2/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/multitts1.3.2/","tags":["multitts","tts","听书"],"noteIcon":""}
 ---
 
 
@@ -9,4 +9,3 @@
 
 这个比较难理解，我看得是有点晕呼呼的，导入也导入不进去。
 
-#tts #multitts #3zh 
