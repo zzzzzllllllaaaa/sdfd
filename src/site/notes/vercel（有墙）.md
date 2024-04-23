@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vercel（有墙）/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/vercel（有墙）/","noteIcon":""}
 ---
 
 
