@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scp基金会/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/scp基金会/","noteIcon":""}
 ---
 
 
