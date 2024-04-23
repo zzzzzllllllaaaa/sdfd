@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cloudfare+telegraph搭建免费图床/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/cloudfare+telegraph搭建免费图床/","noteIcon":""}
 ---
 
 
