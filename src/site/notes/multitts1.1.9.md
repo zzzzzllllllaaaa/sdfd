@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multitts1.1.9/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/multitts1.1.9/","noteIcon":""}
 ---
 
 
