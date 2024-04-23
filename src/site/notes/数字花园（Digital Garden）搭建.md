@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/数字花园（Digital Garden）搭建/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/数字花园（Digital Garden）搭建/","noteIcon":""}
 ---
 
 [[问题与解决\|问题与解决]]
