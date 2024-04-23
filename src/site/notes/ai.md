@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ai/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/ai/","noteIcon":""}
 ---
 
-[[效率工具\|效率工具]]，[[编程\|编程]]
+[[效率工具\|效率工具]]，[[编程\|编程]]，[[无聊网站\|无聊网站]]
 
 感觉除了tts其它的都没怎么好用。[[ai赚钱\|ai赚钱]]
 
