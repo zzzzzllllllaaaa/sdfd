@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/数字花园（Digital Garden）搭建/","noteIcon":""}
+{"dg-publish":true,"permalink":"/数字花园（Digital Garden）搭建/","tags":["数字花园","教程","github项目","3zh","cloudfare"],"noteIcon":""}
 ---
 
 [[问题与解决\|问题与解决]]
 [[增加小功能\|增加小功能]]
+
 ### 教程
 [托管替代方案 (ole.dev)](https://dg-docs.ole.dev/advanced/hosting-alternatives/)
 [利用obsidian构建个人博客 (zytomorrow.top)](https://zytomorrow.top/%E6%8A%80%E6%9C%AF%E6%8A%98%E8%85%BE/%E5%88%A9%E7%94%A8obsidian%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/#github)
@@ -45,4 +46,3 @@ dg-publish: true
 
 
 
-#数字花园 #教程 #github项目 #3zh #cloudfare 
