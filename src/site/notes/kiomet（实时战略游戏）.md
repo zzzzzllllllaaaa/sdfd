@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiomet（实时战略游戏）/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/kiomet（实时战略游戏）/","tags":["在线娱乐","kiomet","实时战略游戏","管理游戏","唯一领导"],"noteIcon":""}
 ---
 
 
@@ -33,4 +33,3 @@
 
 兵营和坦克工厂可以划定供应链。
 
-#kiomet #实时战略游戏 #管理游戏 #劳动分工 #唯一领导 #3zh 
