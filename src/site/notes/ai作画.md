@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["ai作画","ai","效率工具","替代","导航","图片"],"permalink":"/ai作画/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/ai作画/","tags":["ai作画","ai","效率工具","替代","导航","图片","发现资源","在线娱乐"],"noteIcon":""}
 ---
 
 
