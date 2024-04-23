@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/multitts1.1.9/","noteIcon":""}
+{"dg-publish":true,"permalink":"/multitts1.1.9/","tags":["tts","multitts","资源"],"noteIcon":""}
 ---
 
 
 [[tts\|tts]]，[[t2s\|t2s]]，[[multitts1.3.2\|multitts1.3.2]]，[[常用机器人下面的还没整理\|常用机器人下面的还没整理]]
 
-#tts #作者 #multitts #3zh #资源
+
 
 简介::超级棒！上班累死累活，全靠听书续命。这个版本的简单清晰。
 
