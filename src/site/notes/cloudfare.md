@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cloudfare/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/cloudfare/","tags":["建站","托管平台","工具"],"noteIcon":""}
 ---
 
 
@@ -14,7 +14,6 @@ dns能开的都开，如果dns没设置好，会导致同一个网站，电脑�
 [[Warp+\|Warp+]]
 [[数字花园（Digital Garden）搭建\|数字花园（Digital Garden）搭建]]
 
+[cloudare工具项目汇总](
+https://github.com/zhuima/awesome-cloudflare?tab=readme-ov-file)
 
-
-
-#cloudfare #托管平台 #云空间 #网络工具 
