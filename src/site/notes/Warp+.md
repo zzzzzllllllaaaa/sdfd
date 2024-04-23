@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["梯子","Warp","网络工具"],"permalink":"/Warp+/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Warp+/","tags":["梯子","Warp","网络工具"],"noteIcon":""}
 ---
 
 
