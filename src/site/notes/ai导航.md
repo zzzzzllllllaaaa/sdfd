@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai导航/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/ai导航/","noteIcon":""}
 ---
 
 
