@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cloudfare+telegraph搭建免费图床/","noteIcon":""}
+{"dg-publish":true,"permalink":"/cloudfare+telegraph搭建免费图床/","tags":["图床","github项目","仓库","3zh","部署","cloudfare"],"noteIcon":""}
 ---
 
 
@@ -20,4 +20,3 @@
 
 ![](https://telegraph-image-6pq.pages.dev/file/59ff19aa0570131f64b3c.jpg)
 
-#图床 #部署 #托管 #github项目 #快捷 #仓库  #3zh #cloudfare 
