@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ai作画提示词/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ai作画提示词/","tags":["ai作画","提示词","设定","网络工具"],"noteIcon":""}
 ---
 
-#ai作画 #提示词 #设定  #网络工具 
+
 
 [[quicker快捷输入\|quicker快捷输入]]
 
