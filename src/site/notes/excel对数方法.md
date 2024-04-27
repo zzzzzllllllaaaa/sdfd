@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/excel对数方法/","tags":["excel","对数","函数"],"noteIcon":""}
+{"tags":["excel","对数","函数"],"dg-publish":true,"permalink":"/excel对数方法/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
