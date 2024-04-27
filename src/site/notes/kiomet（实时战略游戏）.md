@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiomet（实时战略游戏）/","tags":["在线娱乐","kiomet","实时战略游戏","管理游戏","唯一领导"],"noteIcon":""}
+{"dg-publish":true,"tags":["在线娱乐","kiomet","实时战略游戏","管理游戏","唯一领导"],"permalink":"/kiomet（实时战略游戏）/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
