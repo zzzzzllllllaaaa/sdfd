@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/域名解析DNS/","tags":["域名解析","建站"],"noteIcon":""}
+{"tags":["域名解析","建站"],"dg-publish":true,"permalink":"/域名解析DNS/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 [[ip地址\|ip地址]]
