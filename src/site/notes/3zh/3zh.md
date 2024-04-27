@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3zh/3zh/","tags":["3zh","数字花园","主页","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/3zh/3zh/","tags":["3zh","数字花园","主页","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -17,6 +17,7 @@
 
 | File                                                        | 修改时间             |
 | ----------------------------------------------------------- | ---------------- |
+| [[模板/时间戳笔记\|时间戳笔记]]                                      | 2024-04-27-05:57 |
 | [[multitts1.3.2\|multitts1.3.2]]                         | 2024-04-27-05:53 |
 | [[人垫人的社会\|人垫人的社会]]                                       | 2024-04-27-05:52 |
 | [[域名解析DNS\|域名解析DNS]]                                     | 2024-04-27-05:51 |
@@ -31,7 +32,6 @@
 | [[增加小功能\|增加小功能]]                                         | 2024-04-23-02:28 |
 | [[cloudfare+telegraph搭建免费图床\|cloudfare+telegraph搭建免费图床]] | 2024-04-23-02:27 |
 | [[ai作画提示词\|ai作画提示词]]                                     | 2024-04-23-02:26 |
-| [[scp基金会\|scp基金会]]                                       | 2024-04-23-02:25 |
 
 { .block-language-dataview}
 
