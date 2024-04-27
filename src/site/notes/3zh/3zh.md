@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"banner":"https://telegraph-image-6pq.pages.dev/file/b6559e64e9dc204cc5dd3.jpg","tags":["3zh","数字花园","主页","gardenEntry","gardenEntry"],"permalink":"/3zh/3zh/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"banner":"https://telegraph-image-6pq.pages.dev/file/b6559e64e9dc204cc5dd3.jpg","tags":["3zh","数字花园","主页","gardenEntry"],"permalink":"/3zh/3zh/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -19,6 +19,7 @@
 
 | File                                         | 内容                                                                            |
 | -------------------------------------------- | ----------------------------------------------------------------------------- |
+| [[日记/2024.04.27-20.39\|2024.04.27-20.39]] | <img src="https://tcakil.pages.dev/file/a52bc6bcf30b6e263968d.jpg" />         |
 | [[日记/2024.04.27-18.00\|2024.04.27-18.00]] | 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊，爆炸💥                                                         |
 | [[日记/2024.04.27-18.04\|2024.04.27-18.04]] | 下雨🌧️了，心大寒～呜呜呼呼哉！                                                             |
 | [[日记/2024.04.27-20.33\|2024.04.27-20.33]] | 啊啊啊啊啊啊啊啊                                                                      |
