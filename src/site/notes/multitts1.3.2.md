@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multitts1.3.2/","tags":["multitts","tts","听书"],"noteIcon":""}
+{"dg-publish":true,"tags":["multitts","tts","听书"],"permalink":"/multitts1.3.2/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
