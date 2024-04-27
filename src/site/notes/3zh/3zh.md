@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"banner":"https://telegraph-image-6pq.pages.dev/file/b6559e64e9dc204cc5dd3.jpg","tags":["3zh","数字花园","主页","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/3zh/3zh/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"banner":"https://telegraph-image-6pq.pages.dev/file/b6559e64e9dc204cc5dd3.jpg","tags":["3zh","数字花园","主页","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/3zh/3zh/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -17,6 +17,7 @@
 
 | File                                         | 修改时间             |
 | -------------------------------------------- | ---------------- |
+| [[3zh/即刻\|即刻]]                            | 2024-04-27-08:34 |
 | [[日记/2024.04.27-20.33\|2024.04.27-20.33]] | 2024-04-27-08:33 |
 | [[日记/2024.04.27-18.04\|2024.04.27-18.04]] | 2024-04-27-06:05 |
 | [[日记/2024.04.27-18.00\|2024.04.27-18.00]] | 2024-04-27-06:00 |
@@ -31,7 +32,6 @@
 | [[设定图\|设定图]]                              | 2024-04-23-02:31 |
 | [[3zh/3zh\|3zh]]                          | 2024-04-23-02:29 |
 | [[劳动分工\|劳动分工]]                            | 2024-04-23-02:29 |
-| [[增加小功能\|增加小功能]]                          | 2024-04-23-02:28 |
 
 { .block-language-dataview}
 
