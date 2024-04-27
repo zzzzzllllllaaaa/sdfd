@@ -7,5 +7,5 @@
 [软件1.3.2备份](https://www.123pan.com/s/P8mKVv-mDUaH.html)
 [声音备份3.63GB](https://www.123pan.com/s/P8mKVv-1DUaH.html)
 
-这个比较难理解，我看得是有点晕呼呼的，导入也导入不进去。
+
 
