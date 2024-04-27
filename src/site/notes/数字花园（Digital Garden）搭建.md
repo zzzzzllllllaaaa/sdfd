@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/数字花园（Digital Garden）搭建/","tags":["数字花园","教程","github项目","3zh","cloudfare"],"noteIcon":""}
+{"dg-publish":true,"tags":["数字花园","教程","github项目","3zh","cloudfare"],"permalink":"/数字花园（Digital Garden）搭建/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 [[问题与解决\|问题与解决]]
