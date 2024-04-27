@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3zh/3zh/","tags":["3zh","数字花园","主页","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"banner":"https://telegraph-image-6pq.pages.dev/file/b6559e64e9dc204cc5dd3.jpg","tags":["3zh","数字花园","主页","gardenEntry","gardenEntry"],"permalink":"/3zh/3zh/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -17,7 +17,7 @@
 
 | File                                                        | 修改时间             |
 | ----------------------------------------------------------- | ---------------- |
-| [[模板/时间戳笔记\|时间戳笔记]]                                      | 2024-04-27-05:57 |
+| [[日记/2024.04.27-18.00\|2024.04.27-18.00]]                | 2024-04-27-06:00 |
 | [[multitts1.3.2\|multitts1.3.2]]                         | 2024-04-27-05:53 |
 | [[人垫人的社会\|人垫人的社会]]                                       | 2024-04-27-05:52 |
 | [[域名解析DNS\|域名解析DNS]]                                     | 2024-04-27-05:51 |
