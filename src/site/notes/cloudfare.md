@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cloudfare/","tags":["建站","托管平台","工具"],"noteIcon":""}
+{"dg-publish":true,"tags":["建站","托管平台","工具"],"permalink":"/cloudfare/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
