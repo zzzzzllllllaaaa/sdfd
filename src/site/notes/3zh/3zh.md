@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"banner":"https://telegraph-image-6pq.pages.dev/file/b6559e64e9dc204cc5dd3.jpg","tags":["3zh","数字花园","主页","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/3zh/3zh/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"banner":"https://telegraph-image-6pq.pages.dev/file/b6559e64e9dc204cc5dd3.jpg","tags":["3zh","数字花园","主页","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/3zh/3zh/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -17,6 +17,7 @@
 
 | File                                                        | 修改时间             |
 | ----------------------------------------------------------- | ---------------- |
+| [[日记/2024.04.27-18.04\|2024.04.27-18.04]]                | 2024-04-27-06:05 |
 | [[日记/2024.04.27-18.00\|2024.04.27-18.00]]                | 2024-04-27-06:00 |
 | [[multitts1.3.2\|multitts1.3.2]]                         | 2024-04-27-05:53 |
 | [[人垫人的社会\|人垫人的社会]]                                       | 2024-04-27-05:52 |
@@ -31,7 +32,6 @@
 | [[劳动分工\|劳动分工]]                                           | 2024-04-23-02:29 |
 | [[增加小功能\|增加小功能]]                                         | 2024-04-23-02:28 |
 | [[cloudfare+telegraph搭建免费图床\|cloudfare+telegraph搭建免费图床]] | 2024-04-23-02:27 |
-| [[ai作画提示词\|ai作画提示词]]                                     | 2024-04-23-02:26 |
 
 { .block-language-dataview}
 
