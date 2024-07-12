@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["scp基金会","诡异","故事","共创世界","规则"],"permalink":"/scp基金会/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/scp基金会/","tags":["scp基金会","诡异","故事","共创世界","规则"],"noteIcon":""}
 ---
 
 
