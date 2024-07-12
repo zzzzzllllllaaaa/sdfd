@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["宏","玩一下"],"permalink":"/在一个单元格中随机显示不同颜色的“Hello, World!”字样/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/在一个单元格中随机显示不同颜色的“Hello, World!”字样/","tags":["宏","玩一下"],"noteIcon":""}
 ---
 
 
