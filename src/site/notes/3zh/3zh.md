@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3zh/3zh/","tags":["3zh","数字花园","主页","3zh发布平台","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/3zh/3zh/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -7,12 +7,15 @@
 <meta name="shenma-site-verification" content="9f4a23071eb178c10212ac1fc519d41d_1700668342">
 </head>
 
-[3zh (zhzhzh.netlify.app)](https://zhzhzh.netlify.app/)
-欢~迎~光临！嘿嘿!
+[3zh (zhzhzh.netlify.app)](https://zhzhzh.netlify.app/)，是这个花园的地址，[诡怪咖](http://3zhpyq.000.pe/)，是我发即刻的网站。
 
-[我的即刻](http://3zhpyq.000.pe/)
+这是一个个人的小小的数字花园，里面记录的内容可能有价值也可能没有价值，随着量变的积累，它最后肯定是有不小的价值的。
 
+大家可以没事逛一逛，或许每天都会有新发现呢？
+### 花园结构
+我个人写obsidian是不喜欢打标签，我习惯的记录方式是归档的向上形式，而不是树状图向下分叉写。所以内部双链就是我内容的标签，也是我觉得写下的内容可能需要靠挂记忆的点，所以我的内容都是倒三角，是自下而上的。
 
+这样做的原因是不会有记录的压力，想到什么就写什么，然后给它一个归处。也方便我下次可以从上而下去通过熟悉的内容找到不熟悉的内容。
 
 
 
