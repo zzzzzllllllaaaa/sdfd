@@ -1,5 +1,5 @@
 ---
-{"tags":["工作","excel","效率方法"],"profileName":"zhwly","postId":"20","postType":"post","categories":[1],"dg-publish":true,"permalink":"/word模板利用excel批量替换打印/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/word模板利用excel批量替换打印/","tags":["工作","excel","效率方法","高效excel","数据处理"],"noteIcon":""}
 ---
 
 
