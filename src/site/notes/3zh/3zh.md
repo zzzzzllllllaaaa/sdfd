@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3zh/3zh/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-
+[[数字花园\|数字花园]]
 <head>
 <meta name="shenma-site-verification" content="9f4a23071eb178c10212ac1fc519d41d_1700668342">
 </head>
