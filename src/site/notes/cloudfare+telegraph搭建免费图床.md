@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["图床","github项目","仓库","3zh","部署","cloudfare"],"permalink":"/cloudfare+telegraph搭建免费图床/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/cloudfare+telegraph搭建免费图床/","tags":["图床","github项目","仓库","3zh","部署","cloudfare"],"noteIcon":""}
 ---
 
 
