@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["ai作画","提示词","设定","网络工具"],"permalink":"/ai作画提示词/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/ai作画提示词/","tags":["ai作画","提示词","设定","网络工具"],"noteIcon":""}
 ---
 
 
