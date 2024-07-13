@@ -7,7 +7,7 @@
 <meta name="shenma-site-verification" content="9f4a23071eb178c10212ac1fc519d41d_1700668342">
 </head>
 
-[3zh (zhzhzh.netlify.app)](https://zhzhzh.netlify.app/)，是这个花园的地址，[诡怪咖](http://3zhpyq.000.pe/)，是我发即刻的网站。
+[3zh (zhzhzh.netlify.app)](https://zhzhzh.netlify.app/)，[地址2](https://sdfd-azc.pages.dev/)，这个花园的地址，[诡怪咖](http://3zhpyq.000.pe/)，是我发即刻的网站。
 
 这是一个个人的小小的数字花园，里面记录的内容可能有价值也可能没有价值，随着量变的积累，它最后肯定是有不小的价值的。
 
