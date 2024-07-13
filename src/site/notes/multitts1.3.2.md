@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/multitts1.3.2/","tags":["multitts","tts","听书"],"noteIcon":""}
 ---
 
-[[源世界\|源世界]]
+[[源世界\|源世界]]，[[开源阅读\|开源阅读]]
 
 
 [作者最新版](https://www.coolapk.com/feed/48185091?shareKey=NjU2MDUzZWM3NzA3NjRlMmFmZjA~&shareUid=3882137&shareFrom=com.coolapk.market_13.2.1)
