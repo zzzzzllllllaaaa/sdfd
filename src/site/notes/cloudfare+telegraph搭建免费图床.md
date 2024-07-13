@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cloudfare+telegraph搭建免费图床/","tags":["图床","github项目","仓库","3zh","部署","cloudfare"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/cloudfare+telegraph搭建免费图床/","noteIcon":""}
 ---
 
+[[3zh图床\|3zh图床]],[[telegraph\|telegraph]]
 
-[[telegraph\|telegraph]]
-[[3zh图床\|3zh图床]]
 ### 基础
 [利用cloudfare搭建图床教程](https://baijiahao.baidu.com/s?id=1777556287468058410)
 [项目1地址](https://github.com/cf-pages/Telegraph-Image)
