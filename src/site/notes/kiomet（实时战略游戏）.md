@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/kiomet（实时战略游戏）/","tags":["在线娱乐","kiomet","实时战略游戏","管理游戏","唯一领导"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/kiomet（实时战略游戏）/","noteIcon":""}
 ---
 
+[[向上管理\|向上管理]]，[[游戏\|游戏]]
 
-[[向上管理\|向上管理]]，[kiomet](https://kiomet.com/)，[[管理游戏\|管理游戏]]，[[多向传递\|多向传递]]
+[kiomet](https://kiomet.com/)
 
 实时战略游戏，很上头。攻城略地很上头！
 
