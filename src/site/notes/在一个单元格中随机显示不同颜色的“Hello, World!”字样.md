@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/在一个单元格中随机显示不同颜色的“Hello, World!”字样/","tags":["宏","玩一下"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/在一个单元格中随机显示不同颜色的“Hello, World!”字样/","noteIcon":""}
 ---
 
-
+[[宏\|宏]]
 
 以下是一个简单而有趣的宏示例，这个宏会在一个单元格中随机显示不同颜色的“Hello, World!”字样。
 
