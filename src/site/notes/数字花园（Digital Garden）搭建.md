@@ -6,7 +6,6 @@
 
 
 [[问题与解决\|问题与解决]]
-[[增加小功能\|增加小功能]]
 
 ### 教程
 [托管替代方案 (ole.dev)](https://dg-docs.ole.dev/advanced/hosting-alternatives/)
